@@ -1,0 +1,14 @@
+{
+  "name": "module",
+  "version": "1.0.0",
+  "description": "Un module de manipulation de chaînes de caractères",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/module.test.js",
+    "start": "node index.js",
+    "git repository":"https://github.com/Fadwa-mt/module.git"
+  },
+  "keywords": ["string", "manipulation", "toolkit"],
+  "author": "",
+  "license": "MIT"
+}
